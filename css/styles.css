@@ -29,6 +29,8 @@ h3 {
 
 p {
   line-height: 2;
+  padding-left: auto;
+
 }
 
 hr {
@@ -112,6 +114,7 @@ a:hover {
   width: 30%;
   float: left;
   margin-right: 30px;
+  margin-top: 30px;
 }
 
 .team-work {
@@ -122,6 +125,9 @@ a:hover {
 
 .time-managment {
   margin-bottom: 175px;
+}
+.career{
+  padding-left: 205px;
 }
 
 .btn {
